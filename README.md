@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">## About Me 👨‍💻
+<p align="center">About Me 👨‍💻
 
 I'm a self-taught programmer with 16 years of experience, passionate about solving complex problems and constantly learning new technologies. 💡 My curiosity drives me to improve my skills and stay up-to-date with the latest innovations. I'm always ready for new challenges that allow me to grow and contribute with efficient solutions. 🚀
 
@@ -11,8 +11,8 @@ Let's build something great together! 🔧✨
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-stats-427rc9c0z-vitor-martins-projects.vercel.app?user=render4us&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-427rc9c0z-vitor-martins-projects.vercel.app/api/top-langs/?username=render4us&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center" src="https://github-readme-stats-seven-theta-92.vercel.app?user=render4us&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-seven-theta-92.vercel.app/api/top-langs/?username=render4us&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
