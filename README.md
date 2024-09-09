@@ -3,7 +3,12 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">## About Me 👨‍💻
+
+I'm a self-taught programmer with 16 years of experience, passionate about solving complex problems and constantly learning new technologies. 💡 My curiosity drives me to improve my skills and stay up-to-date with the latest innovations. I'm always ready for new challenges that allow me to grow and contribute with efficient solutions. 🚀
+
+Let's build something great together! 🔧✨
+</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-stats-427rc9c0z-vitor-martins-projects.vercel.app?user=render4us&theme=radical&mode=weekly" />
